@@ -11,7 +11,11 @@ function App() {
           <img src='/flowerline.png' />
 
           <div>
-            It's my 50th Birthday Party!!
+            It's my 50th
+          </div>
+
+          <div>
+          Birthday Party!!
           </div>
 
           <div>
