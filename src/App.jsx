@@ -11,25 +11,25 @@ function App() {
           <img src='/flowerline.png' />
 
           <div>
-            It's my 50th
+            Es mi fiesta de
           </div>
 
           <div>
-          Birthday Party!!
+            Cumpleaños de 50 años.
           </div>
 
           <div>
-          YOU are invited
+            Estas invitado
           </div>
         </div>
 
         <div className='flex flex-col justify-center items-center text-2xl gap-2 pt-10'>
           <div className='font-bold text-3xl'>
-            When and Where:
+            Cuando y Donde:
           </div>
 
           <div>
-            Saturday, August 12th
+            Sábado, 12 de Agosto
           </div>
           
           <div>
