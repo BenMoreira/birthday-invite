@@ -15,7 +15,7 @@ function App() {
           </div>
 
           <div>
-            Cumpleaños de 50 años.
+            50 cumpleaños.
           </div>
 
           <div>
